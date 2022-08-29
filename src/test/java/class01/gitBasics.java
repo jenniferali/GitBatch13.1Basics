@@ -6,5 +6,7 @@ public class gitBasics {
         // and then prints out whether it's a beautiful day or not
 
         System.out.println("Today is NOT a beautiful day... ☁☁☁");
+        System.out.println("Today is NOT a beautiful day... ☁☁☁");
+        System.out.println("Today is NOT a beautiful day... ☁☁☁");
     }
 }
