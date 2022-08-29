@@ -5,6 +5,6 @@ public class gitBasics {
         // write down a code that checks the temperature from a website
         // and then prints out whether it's a beautiful day or not
 
-        System.out.println("Today is a beautiful day! εϊз");
+        System.out.println("Today is NOT a beautiful day... ☁☁☁");
     }
 }
